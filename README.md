@@ -1,0 +1,1 @@
+# myamanaka-npm-package
